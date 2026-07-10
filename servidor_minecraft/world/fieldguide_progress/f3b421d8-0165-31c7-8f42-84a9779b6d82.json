@@ -1,0 +1,27 @@
+{
+  "unlocked": [
+    "entity:armageddon_mod/eldoraththe_ancient_builder",
+    "entity:mowziesmobs/ferrous_wroughtnaut"
+  ],
+  "seen": [],
+  "times": {
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 1783665189306,
+    "entity:mowziesmobs/ferrous_wroughtnaut": 1783662326588
+  },
+  "gameTimes": {
+    "entity:armageddon_mod/eldoraththe_ancient_builder": 6580613,
+    "entity:mowziesmobs/ferrous_wroughtnaut": 6519648
+  },
+  "customNames": {},
+  "customDescriptions": {},
+  "entryPhotographs": {},
+  "selectedVariants": {},
+  "journalTitle": "My Field Guide",
+  "journalPages": [
+    {
+      "title": "",
+      "content": "",
+      "timestamp": 1783392838710
+    }
+  ]
+}
